@@ -1,0 +1,45 @@
+.orderHistory {
+
+    .order-container {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(40%, 1fr)); /* Two columns */
+        gap: 40px 25px; /* Adjust spacing between items */
+        width: 100%;
+        max-width: 1000px;
+        margin-top: 130px;
+        position: absolute;
+        top: 60px;
+        left: 200px;
+        
+    }
+
+    .order-item {
+        background: #d7eef2;
+        border: 1px solid #ccc;
+        border-radius: 8px;
+        color: #9fa8a9;
+    }
+
+
+}
+
+.popupContent {
+    background-color: black !important;
+    color: #5d84c8 !important;
+    width: 35%;
+    position: absolute;
+    top: -400px;
+    left: 500px;
+
+    .result {
+        color: #9fa8a9;
+    }
+
+    button {
+        border: 1px solid #5d84c8;
+        color: #5d84c8;
+    }
+
+    
+
+}

@@ -1,0 +1,68 @@
+.dashboard {
+    margin-top: 30px;
+    position: absolute;
+    top: 80px;
+    left: 130px;
+
+    .text {
+        font-size: 26px;
+        color: #5d84c8;
+        margin-top: 38px;
+    }
+
+    .banner {
+        height: 25vh;
+        align-content: center;
+    }
+
+    .statistics{
+        height: 25vh;
+    }
+
+    .text1 {
+        color: #5d84c8;
+        font-size: 16px;
+    }
+
+    .text,
+    .text-icon {
+        font-size: 20px;
+        color: #5d84c8 !important;
+    }
+
+    .text-statistics,
+    .text-rupee,
+    .text-litres {
+        color: #9fa8a9;
+    }
+
+    .card-details1 {
+        background-color: #D7EFF3;
+    }
+
+    .card-title1 {
+        background-color: #80D2E0;
+    }
+
+    #slider {
+        background-color: #80D2E0;
+        color: #9fa8a9;
+    }
+
+    .carousel-item img {
+        color: #9fa8a9;
+    }
+
+    button span {
+        color: #9fa8a9;
+    }
+
+    .card {
+        background-color: 80D2E0;
+    }
+
+    #text-icon {
+        color: #9fa8a9;
+    }
+
+}

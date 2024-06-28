@@ -1,0 +1,22 @@
+.AppBar {
+    width: 100%;
+    height:100vh; /* Full viewport height */
+   
+    background-position: center; /* Position of each background */
+    background-size: cover; /* Size of each background */
+    background-repeat: no-repeat; /* Prevents repetition */
+
+    .navbar{
+        .logo{
+            height: 45px !important;
+            margin-right: 10px;
+        }
+    }
+
+    #search-icon, input::placeholder{
+        color: #9fa8a9;
+    }
+
+}   
+
+

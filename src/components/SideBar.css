@@ -1,0 +1,22 @@
+.sidebar {
+    background: #6fccdd;
+    width: 85px;
+    height: 69vh;
+    gap: 45px;
+    margin-left: 10px;
+    margin-Top: 115px;
+
+    .sidebar-icon {
+        font-size: 25px;
+    }
+
+    .sidebar-icon:first-child {
+        padding-top: 25px;
+    }
+
+    .sidebar-icon:last-child {
+        padding-left: 30px;
+        padding-top: 5px;
+    }
+
+}

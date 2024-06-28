@@ -1,0 +1,4 @@
+.App{
+    overflow-y: hidden; /* Hide any content overflow */
+    padding: 15px;
+}

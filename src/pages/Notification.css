@@ -1,0 +1,31 @@
+.notification {
+
+    button{
+        background: #d7eef2;
+        width: fit-content !important;
+        text-align: center;
+        color: #5d84c8;
+        border-radius: 8px; 
+        border: none;
+    }
+    
+    .card1,button {
+        margin-top: 80px;
+        position: absolute;
+        top: 60px;
+        left: 200px;
+        width: 80%;
+
+        .card {
+            background: #d7eef2;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+
+            .time {
+                color: #9fa8a9;
+            }
+        }
+    }
+
+
+}
